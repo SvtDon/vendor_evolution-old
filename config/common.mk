@@ -11,6 +11,9 @@ PRODUCT_PROPERTY_OVERRIDES += \
     windowsmgr.max_events_per_sec=280 \
     ro.media.enc.jpeg.quality=100 \
     ro.com.android.dataroaming=false
+    
+# Enable ADB authentication
+ADDITIONAL_DEFAULT_PROPERTIES += ro.adb.secure=1    
 
 # Copy over the changelog to the device
 PRODUCT_COPY_FILES += \
@@ -88,7 +91,6 @@ PRODUCT_PACKAGES += \
     DSPManager \
     libcyanogen-dsp \
     audio_effects.conf \
-    CMUpdater \
     EvoWallpapers \
     EvolutionFileManager \
     LockClock
