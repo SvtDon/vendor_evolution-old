@@ -26,5 +26,6 @@ CHANGELOG (notable new features)
 * Added voltage settings in performace
 * Added init.D settings in performance
 * Built with latest stable kernel full source inline (Imoyeson)
+* Add custom show wifi and carrier (Aokp and Slimroms)
 * All hardware and other source components will be basically be updated each time cyanogen updates now on
 * More will be added when i get free time! 
