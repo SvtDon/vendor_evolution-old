@@ -12,4 +12,19 @@ CHANGELOG (notable new features)
 * Removed all languages from build besides english (English only now)
 * 6 bar radio and wifi signal (Evervolv and me)
 * Wifi text, signal text, option to hide. (Aokp)
+* Did the layout the same way for alot of the settings as Slimsrom as it is really well organized and clean i felt and was going the same way
+* Power qs and power widget toggle (Slim)
+* Dotted battery, animation (Slim)
+* Clock, date (Cm, Aokp, Slimroms)
+* Navigation mods picked from Slimroms. (Aokp and Slimroms)
+* Lcd density (Slimroms)
+* Lockscreen oriatation (Slimroms)
+* Camera widget toggle (Slimroms)
+* Hide initial hints (Aokp)
+* Carousel widget (Aokp)
+* Battery percent (Slimroms)
+* Added voltage settings in performace
+* Added init.D settings in performance
+* Built with latest stable kernel full source inline (Imoyeson)
+* All hardware and other source components will be basically be updated each time cyanogen updates now on
 * More will be added when i get free time! 
