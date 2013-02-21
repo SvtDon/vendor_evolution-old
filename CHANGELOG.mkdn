@@ -38,6 +38,7 @@ CHANGELOG (notable new features)
 * Moved volume wake to evo settings in display
 * PowerManager: Don't wake up device when charger is plugged/unplugged (MarcLandis)
 * Notification Shortcuts (Slimroms)
+* Rom does come with a theme chooser theme based off of thryus holo. But its a start and havent worked on it much. Sorry
 * Of course all the goodies that come with Cyanogenmod too!!!
 * All hardware and other source components will be basically be updated each time cyanogen updates now on
 * More will be added when i get free time! 
