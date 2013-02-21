@@ -27,5 +27,12 @@ CHANGELOG (notable new features)
 * Added init.D settings in performance
 * Built with latest stable kernel full source inline (Imoyeson)
 * Add custom show wifi and carrier (Aokp and Slimroms)
+* Add Sync Control, High Performance Audio control and volume boost in galaxy nexus parts (Picked from Buckmarble)
+* Add high end graphic effects toggle (Slimroms)
+* Transparent statusbar and navbar (Slimroms)
+* Made quick setting row to 4 by default instead of 3. Just looks better!
+* Add notification background and rows transparency (Slimroms)
+* Option to change color of text and such on cLock widget
+* More weather icons on cLock
 * All hardware and other source components will be basically be updated each time cyanogen updates now on
 * More will be added when i get free time! 
