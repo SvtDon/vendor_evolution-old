@@ -34,5 +34,10 @@ CHANGELOG (notable new features)
 * Add notification background and rows transparency (Slimroms)
 * Option to change color of text and such on cLock widget
 * More weather icons on cLock
+* Crt animations on/off (Eos-Slimroms)
+* Moved volume wake to evo settings in display
+* PowerManager: Don't wake up device when charger is plugged/unplugged (MarcLandis)
+* Notification Shortcuts (Slimroms)
+* Of course all the goodies that come with Cyanogenmod too!!!
 * All hardware and other source components will be basically be updated each time cyanogen updates now on
 * More will be added when i get free time! 
