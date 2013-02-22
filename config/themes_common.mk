@@ -2,7 +2,6 @@
 PRODUCT_PACKAGES += \
        ThemeManager \
        ThemeChooser \
-       BlackEvo \
        com.tmobile.themes 
 
 PRODUCT_COPY_FILES += \
