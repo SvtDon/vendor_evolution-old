@@ -10,10 +10,7 @@ PRODUCT_PROPERTY_OVERRIDES += \
     ro.com.android.dateformat=MM-dd-yyyy \
     windowsmgr.max_events_per_sec=280 \
     ro.media.enc.jpeg.quality=100 \
-    ro.com.android.dataroaming=false
-    
-# Enable ADB authentication
-ADDITIONAL_DEFAULT_PROPERTIES += ro.adb.secure=1    
+    ro.com.android.dataroaming=false    
 
 # Copy over the changelog to the device
 PRODUCT_COPY_FILES += \
@@ -41,6 +38,9 @@ PRODUCT_COPY_FILES += \
 # Copy latinime for gesture typing
 PRODUCT_COPY_FILES += \
     vendor/evolution/prebuilt/common/lib/libjni_latinime.so:system/lib/libjni_latinime.so
+
+PRODUCT_COPY_FILES +=  \
+    vendor/evolution/prebuilt/common/proprietary/supersu/su:system/xbin/su
 
 # Compcache/Zram support
 PRODUCT_COPY_FILES += \
@@ -76,8 +76,7 @@ PRODUCT_PACKAGES += \
     Camera \
     Development \
     LatinIME \
-    Superuser \
-    su
+    Superuser
 
 # Optional nexus evolution packages
 PRODUCT_PACKAGES += \
