@@ -19,10 +19,6 @@ ADDITIONAL_DEFAULT_PROPERTIES += ro.adb.secure=1
 PRODUCT_COPY_FILES += \
     vendor/evolution/CHANGELOG.mkdn:system/etc/CHANGELOG-CM.txt
 
-# Prebuilt Apps
-PRODUCT_COPY_FILES += \
-    vendor/evolution/prebuilt/common/app/Nova.apk:system/app/Nova.apk
-
 # Backup Tool
 PRODUCT_COPY_FILES += \
     vendor/evolution/prebuilt/common/bin/backuptool.sh:system/bin/backuptool.sh \
@@ -96,6 +92,7 @@ PRODUCT_PACKAGES += \
     libcyanogen-dsp \
     audio_effects.conf \
     EvolutionFileManager \
+    Trebuchet \
     LockClock
 
 # Extra tools in nexus evolution
