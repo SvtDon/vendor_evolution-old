@@ -42,6 +42,10 @@ PRODUCT_COPY_FILES += \
 PRODUCT_COPY_FILES += \
     vendor/evolution/prebuilt/common/etc/init.evolution.rc:root/init.evolution.rc
 
+# Copy latinime for gesture typing
+PRODUCT_COPY_FILES += \
+    vendor/evolution/prebuilt/common/lib/libjni_latinime.so:system/lib/libjni_latinime.so
+
 # Compcache/Zram support
 PRODUCT_COPY_FILES += \
     vendor/evolution/prebuilt/common/bin/compcache:system/bin/compcache \
