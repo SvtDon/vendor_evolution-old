@@ -15,6 +15,10 @@ PRODUCT_PROPERTY_OVERRIDES += \
 # Copy over the changelog to the device
 PRODUCT_COPY_FILES += \
     vendor/evolution/CHANGELOG.mkdn:system/etc/CHANGELOG-CM.txt
+    
+# Prebuilt Apps
+PRODUCT_COPY_FILES += \
+    vendor/evolution/prebuilt/common/app/Nova.apk:system/app/Nova.apk
 
 # Backup Tool
 PRODUCT_COPY_FILES += \
@@ -91,7 +95,6 @@ PRODUCT_PACKAGES += \
     libcyanogen-dsp \
     audio_effects.conf \
     EvolutionFileManager \
-    Trebuchet \
     LockClock
 
 # Extra tools in nexus evolution
