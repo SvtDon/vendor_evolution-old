@@ -95,6 +95,7 @@ PRODUCT_PACKAGES += \
     libcyanogen-dsp \
     audio_effects.conf \
     EvolutionFileManager \
+    DashClock \
     LockClock
 
 # Extra tools in nexus evolution
