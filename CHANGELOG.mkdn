@@ -75,4 +75,5 @@ CHANGELOG (notable new features)
 * Added Recents rambar (Slimroms)
 * Fully merged up to with Cyanogenmod with bugs and fixes and such
 * Huge cleanup on settings with all translations. Was removed. Rom built for english only anyways
+* Lean kernel updated to 6.1.1
 * Im sure theres tons more as alot was done on this update. Big thanks to Slimroms and Cyanogenmod!!!
