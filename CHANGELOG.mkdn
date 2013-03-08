@@ -44,8 +44,35 @@ CHANGELOG (notable new features)
 * More will be added when i get free time! 
 
 
-
 ### 4.0.1
 
 * Fix notification drop down on navigation button
 * Fix notification light force close
+
+
+### 4.1.1
+
+* Lots of new goodies on this one...
+* New theme chooser theme. Stock Rom and Now Themed Rom
+* Pie (ParanoidAndroid, Picked the commits from BuckMarble github since one of the commits was big in one!)
+* QuickSettings over haul. Up to date with Slimroms
+* Lte QuickSettings (SlimRoms)
+* Favorite QuickSetting (Slimroms)
+* FastCharge (Slimroms)
+* Removed Gfx 
+* Notificatioin behavior (Slimroms)
+* QuickSettings Tile rows, tile color, tile text (Slim and me)
+* Added fastcharge to powerwidget
+* New color picker (Slimroms)
+* Merged cLock back with Cyanogenmod. (Shows weather now without it maximized)
+* Cleaned up expand desktop
+* Cleaned up crt animation. Mode horizontal now or vertical or off (Slimroms)
+* Low battery warning (Slimroms and Liquid)
+* More notification icons (Slimroms)
+* Removed Cyanogenmod Superuser, added SuperSU
+* Lots and Lots of code clean up on observers and such (Slimroms and Cyanogenmod and Me)
+* Merged in libs from verizon and all updated with 4.2.2 hopefully
+* Added Recents rambar (Slimroms)
+* Fully merged up to with Cyanogenmod with bugs and fixes and such
+* Huge cleanup on settings with all translations. Was removed. Rom built for english only anyways
+* Im sure theres tons more as alot was done on this update. Big thanks to Slimroms and Cyanogenmod!!!
